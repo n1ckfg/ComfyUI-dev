@@ -11,5 +11,4 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 cd $DIR
 
 cd ComfyUI
-open http://127.0.0.1:8188
 python main.py
