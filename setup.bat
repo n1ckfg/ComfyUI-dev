@@ -5,6 +5,7 @@ cd %~dp0
 git clone https://github.com/n1ckfg/ComfyUI
 cd ComfyUI
 pip install -r requirements.txt
+pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyUI-Manager
