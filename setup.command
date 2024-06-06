@@ -19,5 +19,5 @@ cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyUI-Manager
 git clone https://github.com/n1ckfg/comfyui-p5js-node
 
-cd ..\models\checkpoints
-wget https://civitai.com/api/download/models/128713
+cd ../models/checkpoints
+wget https://civitai.com/api/download/models/128713 -O dreamshaper_8.safetensors
