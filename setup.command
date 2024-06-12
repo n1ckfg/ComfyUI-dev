@@ -10,6 +10,8 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd $DIR
 
+pip install -r requirements.txt
+
 git clone https://github.com/n1ckfg/ComfyUI
 cd ComfyUI
 pip install -r requirements.txt
