@@ -1,2 +1,6 @@
 opencv-python
 moviepy
+transformers
+torchsde
+kornia
+spandrel
