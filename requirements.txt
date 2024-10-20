@@ -4,3 +4,4 @@ transformers
 torchsde
 kornia
 spandrel
+accelerate
