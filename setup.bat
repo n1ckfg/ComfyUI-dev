@@ -16,7 +16,4 @@ git clone https://github.com/n1ckfg/ComfyUI-VideoHelperSuite
 git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 
-cd ..\models\checkpoints
-powershell -Command "Invoke-WebRequest https://civitai.com/api/download/models/128713 -OutFile dreamshaper_8.safetensors"
-
 @pause

@@ -10,5 +10,4 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd $DIR
 
-cd ComfyUI
-python main.py
+bash run.sh
