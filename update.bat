@@ -2,7 +2,11 @@
 
 cd %~dp0
 
-cd ComfyUI\custom_nodes
+cd ComfyUI
+
+git pull
+
+cd custom_nodes
 
 for /d %%d in (*) do (
     if exist "%%d\.git" (

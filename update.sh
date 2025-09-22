@@ -10,7 +10,11 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd $DIR
 
-cd ComfyUI/custom_nodes
+cd ComfyUI
+
+git pull
+
+cd custom_nodes
 
 for dir in ./*; do
     if [ -d "$dir/.git" ]; then
