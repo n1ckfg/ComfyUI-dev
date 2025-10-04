@@ -10,5 +10,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd $DIR
 
+xdg-open http://127.0.0.1:8188
+
 cd ComfyUI
 python main.py
