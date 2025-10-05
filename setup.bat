@@ -18,5 +18,6 @@ git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
 git clone https://github.com/n1ckfg/Lora-Training-in-Comfy
+git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 
 @pause
