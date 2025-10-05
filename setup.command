@@ -29,3 +29,4 @@ git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
 git clone https://github.com/n1ckfg/Lora-Training-in-Comfy
 git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 git clone https://github.com/n1ckfg/Comfyui_TTP_Toolset
+git clone https://github.com/n1ckfg/comfyui-janky-nodes
