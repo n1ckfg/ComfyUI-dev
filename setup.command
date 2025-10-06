@@ -33,3 +33,4 @@ git clone https://github.com/n1ckfg/comfyui-janky-nodes
 git clone https://github.com/n1ckfg/ComfyUI-Inspire-Pack
 git clone https://github.com/n1ckfg/ComfyUI_Ib_CustomNodes
 git clone https://github.com/n1ckfg/ComfyUI-Impact-Pack
+git clone https://github.com/n1ckfg/ComfyUI-MultiGPU
