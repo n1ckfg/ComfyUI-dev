@@ -2,6 +2,8 @@
 
 cd %~dp0
 
+git pull
+
 cd ComfyUI
 
 git pull

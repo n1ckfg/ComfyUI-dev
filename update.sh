@@ -10,6 +10,8 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd $DIR
 
+git pull
+
 cd ComfyUI
 
 git pull
