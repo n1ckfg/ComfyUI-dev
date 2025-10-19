@@ -29,5 +29,6 @@ git clone https://github.com/n1ckfg/ComfyUI-MultiGPU
 git clone https://github.com/n1ckfg/was-node-suite-comfyui
 git clone https://github.com/n1ckfg/ComfyUI-LatentWalk
 git clone https://github.com/n1ckfg/execution-inversion-demo-comfyui
+git clone https://github.com/n1ckfg/ComfyUI_Comfyroll_CustomNodes
 
 @pause
