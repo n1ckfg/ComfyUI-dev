@@ -39,3 +39,6 @@ git clone https://github.com/n1ckfg/ComfyUI-LatentWalk
 git clone https://github.com/n1ckfg/execution-inversion-demo-comfyui
 git clone https://github.com/n1ckfg/ComfyUI_Comfyroll_CustomNodes
 git clone https://github.com/n1ckfg/comfyui_controlnet_aux
+git clone https://github.com/n1ckfg/comfyui-tooling-nodes
+git clone https://github.com/n1ckfg/ComfyUI_IPAdapter_plus
+git clone https://github.com/n1ckfg/comfyui-inpaint-nodes
