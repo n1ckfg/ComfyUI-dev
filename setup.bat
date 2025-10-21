@@ -14,6 +14,7 @@ git clone https://github.com/n1ckfg/ComfyUI-Manager
 
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
+git clone https://github.com/n1ckfg/ComfyUI-Custom-Scripts
 git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
 git clone https://github.com/n1ckfg/ComfyUI-Impact-Pack
