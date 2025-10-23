@@ -14,6 +14,7 @@ git clone https://github.com/n1ckfg/ComfyUI-Manager
 
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
+git clone https://github.com/n1ckfg/ComfyUI-Crystools
 git clone https://github.com/n1ckfg/ComfyUI-Custom-Scripts
 git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
@@ -21,6 +22,7 @@ git clone https://github.com/n1ckfg/ComfyUI-Impact-Pack
 git clone https://github.com/n1ckfg/comfyui-inpaint-nodes
 git clone https://github.com/n1ckfg/ComfyUI-Inspire-Pack
 git clone https://github.com/n1ckfg/comfyui-janky-nodes
+git clone https://github.com/n1ckfg/ComfyUI-KJNodes
 git clone https://github.com/n1ckfg/ComfyUI-LatentWalk
 git clone https://github.com/n1ckfg/ComfyUI-MultiGPU
 git clone https://github.com/n1ckfg/comfyui-optical-flow
