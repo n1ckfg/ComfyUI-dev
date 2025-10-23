@@ -26,6 +26,7 @@ git clone https://github.com/n1ckfg/ComfyUI-Crystools
 git clone https://github.com/n1ckfg/ComfyUI-Custom-Scripts
 git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
+git clone https://github.com/n1ckfg/ComfyUI-FLATTEN
 git clone https://github.com/n1ckfg/ComfyUI-Impact-Pack
 git clone https://github.com/n1ckfg/comfyui-inpaint-nodes
 git clone https://github.com/n1ckfg/ComfyUI-Inspire-Pack
