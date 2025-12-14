@@ -40,5 +40,7 @@ git clone https://github.com/n1ckfg/Comfyui_TTP_Toolset
 git clone https://github.com/n1ckfg/execution-inversion-demo-comfyui
 git clone https://github.com/n1ckfg/Lora-Training-in-Comfy
 git clone https://github.com/n1ckfg/was-node-suite-comfyui
+git clone https://github.com/n1ckfg/ComfyUI_Noise
+git clone https://github.com/n1ckfg/ComfyUI-RAVE
 
 @pause
