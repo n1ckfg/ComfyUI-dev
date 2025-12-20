@@ -13,4 +13,9 @@ cd "$DIR"
 open http://127.0.0.1:8188
 
 cd ComfyUI
+
+cd custom_nodes/was-node-suite-comfyui
+git clean -fdx
+cd ../..
+
 python main.py
