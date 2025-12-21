@@ -45,6 +45,7 @@ git clone https://github.com/n1ckfg/ComfyUI-RAVE
 git clone https://github.com/n1ckfg/ComfyUI-TiledDiffusion
 git clone https://github.com/n1ckfg/comfyui-tooling-nodes
 git clone https://github.com/n1ckfg/ComfyUI-VideoHelperSuite
+git clone https://github.com/n1ckfg/ComfyUI_yanc
 git clone https://github.com/n1ckfg/ComfyUI-WD14-Tagger
 git clone https://github.com/n1ckfg/ComfyUI_Comfyroll_CustomNodes
 git clone https://github.com/n1ckfg/comfyui_controlnet_aux
