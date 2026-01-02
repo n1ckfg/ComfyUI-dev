@@ -12,5 +12,7 @@ cd "$DIR"
 
 cd ComfyUI
 
-cd models/checkpoints
-wget https://civitai.com/api/download/models/128713 -O dreamshaper_8.safetensors
+mv models models_old
+wget https://fox-gieg.com/patches/github/n1ckfg/ComfyUI/models.zip
+unzip models.zip
+rm models.zip
