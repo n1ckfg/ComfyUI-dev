@@ -10,6 +10,9 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd "$DIR"
 
+bash setup.sh
+bash models.sh
+
 cd ../runpod-slim/ComfyUI
 
 mv models models_old
