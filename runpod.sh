@@ -26,4 +26,4 @@ ln -s ../../ComfyUI-dev/ComfyUI/custom_nodes
 
 cd custom_nodes
 
-ln -s ../custom_nodes_old/ComfyUI-RunpodDirect
+ln -s /workspace/runpod-slim/ComfyUI/custom_nodes_old/ComfyUI-RunpodDirect
