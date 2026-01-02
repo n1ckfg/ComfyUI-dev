@@ -11,7 +11,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 cd "$DIR"
 
 apt-get update
-apt-get install unzip
+apt-get install zip unzip
 
 bash setup.sh
 bash models.sh
@@ -23,3 +23,7 @@ mv custom_nodes custom_nodes_old
 
 ln -s ../../ComfyUI-dev/ComfyUI/models
 ln -s ../../ComfyUI-dev/ComfyUI/custom_nodes
+
+cd custom_nodes
+
+ln -s ../custom_nodes_old/ComfyUI-RunpodDirect
