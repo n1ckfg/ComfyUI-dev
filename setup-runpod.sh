@@ -66,8 +66,8 @@ git clone https://github.com/n1ckfg/Image-Captioning-in-ComfyUI
 git clone https://github.com/n1ckfg/was-node-suite-comfyui
 
 cd was-node-suite-comfyui
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 cd ../ComfyUI-Impact-Pack
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
