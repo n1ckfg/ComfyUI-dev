@@ -66,12 +66,12 @@ git clone https://github.com/n1ckfg/Image-Captioning-in-ComfyUI
 git clone https://github.com/n1ckfg/was-node-suite-comfyui
 
 cd was-node-suite-comfyui
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt && pip install -r requirements.txt
 
 cd ../ComfyUI-Impact-Pack
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt && pip install -r requirements.txt
 
-cd ~/
+cd /workspace
 ln -s /workspace/runpod-slim/ComfyUI/models
 ln -s /workspace/runpod-slim/ComfyUI/output
 ln -s /workspace/runpod-slim/ComfyUI/custom_nodes
