@@ -20,6 +20,7 @@ pip install --pre --upgrade torch torchvision torchaudio --index-url https://dow
 cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyUI-Manager
 
+git clone https://github.com/n1ckfg/Civicomfy
 git clone https://github.com/n1ckfg/ComfyMath
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
