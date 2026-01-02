@@ -71,3 +71,7 @@ pip3 install -r requirements.txt
 cd ../ComfyUI-Impact-Pack
 pip3 install -r requirements.txt
 
+cd ~/
+ln -s /workspace/runpod-slim/ComfyUI/models
+ln -s /workspace/runpod-slim/ComfyUI/output
+ln -s /workspace/runpod-slim/ComfyUI/custom_nodes
