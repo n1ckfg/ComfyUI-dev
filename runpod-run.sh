@@ -10,10 +10,19 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd "$DIR"
 
+pkill -f "main.py --listen 0.0.0.0 --port 8188"
+
 cd /workspace/runpod-slim/ComfyUI
 
-cd custom_nodes/was-node-suite-comfyui
+cd custom_nodes
+
+cd was-node-suite-comfyui
 git clean -fdx
+pip3 install -r requirements.txt && pip install -r requirements.txt
+
+cd ../ComfyUI-Impact-Pack
+pip3 install -r requirements.txt && pip install -r requirements.txt
+
 cd ../..
 
 nohup python3 main.py --listen 0.0.0.0 --port 8188 &
