@@ -10,6 +10,9 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd "$DIR"
 
+apt-get update
+apt-get install unzip
+
 bash setup.sh
 bash models.sh
 
