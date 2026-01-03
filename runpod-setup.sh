@@ -75,3 +75,5 @@ cd /workspace
 ln -s /workspace/runpod-slim/ComfyUI/models
 ln -s /workspace/runpod-slim/ComfyUI/output
 ln -s /workspace/runpod-slim/ComfyUI/custom_nodes
+
+bash runpod-run.sh
