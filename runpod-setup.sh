@@ -42,6 +42,7 @@ git clone https://github.com/n1ckfg/ComfyUI-Jjk-Nodes
 git clone https://github.com/n1ckfg/ComfyUI-KJNodes
 git clone https://github.com/n1ckfg/ComfyUI-LatentWalk
 git clone https://github.com/n1ckfg/ComfyUI-MultiGPU
+git clone https://github.com/n1ckfg/ComfyUI-OIDN
 git clone https://github.com/n1ckfg/comfyui-optical-flow
 git clone https://github.com/n1ckfg/comfyui-p5js-node
 git clone https://github.com/n1ckfg/ComfyUI-post-processing-nodes
