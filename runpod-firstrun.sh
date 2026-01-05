@@ -12,6 +12,22 @@ cd "$DIR"
 
 pkill -f "main.py --listen 0.0.0.0 --port 8188"
 
+apt-get update && apt-get install zip unzip libtbb-dev
+
 cd /workspace/runpod-slim/ComfyUI
 
-python3 main.py --listen 0.0.0.0 --port 8188
+cd custom_nodes
+
+cd was-node-suite-comfyui
+git clean -fdx
+pip install -r requirements.txt
+
+cd ../ComfyUI-Impact-Pack
+pip install -r requirements.txt
+
+cd ../ComfyUI-OIDN
+pip install -r requirements.txt
+
+cd ../..
+
+nohup python3 main.py --listen 0.0.0.0 --port 8188 &
