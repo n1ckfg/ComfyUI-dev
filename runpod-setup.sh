@@ -11,7 +11,7 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 cd "$DIR"
 
 apt-get update
-apt-get install zip unzip
+apt-get install zip unzip libtbb-dev
 
 bash models.sh
 
