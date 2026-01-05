@@ -66,11 +66,13 @@ git clone https://github.com/n1ckfg/Image-Captioning-in-ComfyUI
 #git clone https://github.com/n1ckfg/Lora-Training-in-Comfy
 git clone https://github.com/n1ckfg/was-node-suite-comfyui
 
-cd was-node-suite-comfyui
-pip3 install -r requirements.txt && pip install -r requirements.txt
+#cd was-node-suite-comfyui
+#pip3 install -r requirements.txt
+#pip install -r requirements.txt
 
-cd ../ComfyUI-Impact-Pack
-pip3 install -r requirements.txt && pip install -r requirements.txt
+#cd ../ComfyUI-Impact-Pack
+#pip3 install -r requirements.txt
+#pip install -r requirements.txt
 
 cd /workspace
 ln -s /workspace/runpod-slim/ComfyUI/models

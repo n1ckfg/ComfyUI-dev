@@ -18,10 +18,13 @@ cd custom_nodes
 
 cd was-node-suite-comfyui
 git clean -fdx
-pip3 install -r requirements.txt && pip install -r requirements.txt
+pip install -r requirements.txt
 
 cd ../ComfyUI-Impact-Pack
-pip3 install -r requirements.txt && pip install -r requirements.txt
+pip install -r requirements.txt
+
+cd ../ComfyUI-OIDN
+pip install -r requirements.txt
 
 cd ../..
 
