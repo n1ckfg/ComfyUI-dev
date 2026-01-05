@@ -12,6 +12,8 @@ cd "$DIR"
 
 pkill -f "main.py --listen 0.0.0.0 --port 8188"
 
+apt-get update && apt-get install zip unzip libtbb-dev
+
 cd /workspace/runpod-slim/ComfyUI
 
 cd custom_nodes
