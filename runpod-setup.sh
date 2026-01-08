@@ -26,6 +26,7 @@ cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyMath
 git clone https://github.com/n1ckfg/ComfyUI-Advanced-ControlNet
 git clone https://github.com/n1ckfg/ComfyUI-AnimateDiff-Evolved
+git clone https://github.com/n1ckfg/ComfyUI-basic_data_handling
 git clone https://github.com/n1ckfg/ComfyUI-Crystools
 git clone https://github.com/n1ckfg/ComfyUI-Custom-Scripts
 git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
