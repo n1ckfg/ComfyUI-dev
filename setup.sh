@@ -44,6 +44,7 @@ git clone https://github.com/n1ckfg/ComfyUI-OIDN
 git clone https://github.com/n1ckfg/comfyui-optical-flow
 git clone https://github.com/n1ckfg/comfyui-p5js-node
 git clone https://github.com/n1ckfg/ComfyUI-post-processing-nodes
+git clone https://github.com/n1ckfg/ComfyUI-RAFT
 git clone https://github.com/n1ckfg/ComfyUI-RAVE
 git clone https://github.com/n1ckfg/ComfyUI-SuperBeasts
 git clone https://github.com/n1ckfg/ComfyUI-TiledDiffusion
