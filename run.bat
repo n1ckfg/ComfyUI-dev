@@ -10,7 +10,6 @@ cd custom_nodes\was-node-suite-comfyui
 git clean -fdx
 cd ..\..
 
-rem python main.py --max-upload-size 1500
-python main.py
+python main.py --listen 0.0.0.0 --port 8188
 
 @pause
