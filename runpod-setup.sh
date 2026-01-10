@@ -64,6 +64,7 @@ git clone https://github.com/n1ckfg/ComfyUI_Ib_CustomNodes
 git clone https://github.com/n1ckfg/ComfyUI_IPAdapter_plus
 git clone https://github.com/n1ckfg/ComfyUI_Noise
 git clone https://github.com/n1ckfg/ComfyUI_yanc
+git clone https://github.com/n1ckfg/efficiency-nodes-comfyui
 git clone https://github.com/n1ckfg/execution-inversion-demo-comfyui
 git clone https://github.com/n1ckfg/Image-Captioning-in-ComfyUI
 git clone https://github.com/n1ckfg/rgthree-comfy
