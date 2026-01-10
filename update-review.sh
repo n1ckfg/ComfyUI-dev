@@ -13,7 +13,7 @@ cd "$DIR"
 git pull
 
 cd ComfyUI
-#open "https://github.com/n1ckfg/ComfyUI"
+open "https://github.com/n1ckfg/ComfyUI"
 git pull
 
 cd custom_nodes
@@ -21,7 +21,7 @@ cd custom_nodes
 for dir in ./*; do
     if [ -d "$dir/.git" ]; then
         NAME=`basename "$dir"`
-        #open "https://github.com/n1ckfg/$NAME"
+        open "https://github.com/n1ckfg/$NAME"
         echo "Updating repo: $NAME"
         (
             cd "$dir" || exit
