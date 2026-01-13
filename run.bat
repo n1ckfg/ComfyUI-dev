@@ -10,6 +10,7 @@ cd custom_nodes\was-node-suite-comfyui
 git clean -fdx
 cd ..\..
 
+rem python main.py --listen 0.0.0.0 --port 8188 --use-sage-attention
 python main.py --listen 0.0.0.0 --port 8188
 
 @pause
