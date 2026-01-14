@@ -7,7 +7,12 @@ pip install --user -r requirements.txt
 git clone https://github.com/n1ckfg/ComfyUI
 cd ComfyUI
 pip install --user -r requirements.txt
-pip install --user --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+pip install --user --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+rem SageAttention options
+rem pip install --user --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+rem pip install triton-windows sageattention
 
 cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyUI-Manager
