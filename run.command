@@ -13,6 +13,7 @@ cd "$DIR"
 open http://127.0.0.1:8188
 
 cd ComfyUI
+source venv/bin/activate
 
 cd custom_nodes
 
