@@ -52,6 +52,7 @@ git clone https://github.com/n1ckfg/ComfyUI-post-processing-nodes
 git clone https://github.com/n1ckfg/ComfyUI-RAFT
 git clone https://github.com/n1ckfg/ComfyUI-RAVE
 git clone https://github.com/n1ckfg/ComfyUI-SuperBeasts
+git clone https://github.com/n1ckfg/ComfyUI-SeedVR2_VideoUpscaler
 git clone https://github.com/n1ckfg/ComfyUI-TiledDiffusion
 git clone https://github.com/n1ckfg/comfyui-tooling-nodes
 git clone https://github.com/n1ckfg/ComfyUI-VideoHelperSuite
