@@ -25,4 +25,9 @@ git clean -fdx
 
 cd ../..
 
+# --disable-smart-memory: Ooffload idle models to system RAM instead of keeping them in VRAM.
+# --cpu-vae: Forces the VAE to decode on the CPU. It is slower, but saves VRAM and prevents a sudden temperature and power spike at the very end of generation.
+# --lowvram: Slices UNet computation into smaller parts. This relies heavily on system RAM swapping, keeping GPU temperatures lower at the cost of speed.
+# --reserve-vram 2.0: Keeps 2GB of VRAM free for Windows, preventing the OS display driver from starving and crashing.
+
 python main.py --listen 0.0.0.0 --port 8188
