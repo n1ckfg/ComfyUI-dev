@@ -22,6 +22,6 @@ rem --lowvram: Slice UNet computation into smaller parts. Relies heavily on syst
 rem --reserve-vram 2.0: Keeps x GB of VRAM free, preventing the OS display driver from starving and crashing.
 
 rem python main.py --listen 0.0.0.0 --port 8188 --use-sage-attention
-python main.py --listen 0.0.0.0 --port 8188 --reserve-vram 1.0 --use-sage-attention
+python main.py --listen 0.0.0.0 --port 8188 --reserve-vram 1.0 --use-sage-attention --enable-manager
 
 @pause
