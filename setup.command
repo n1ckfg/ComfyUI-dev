@@ -36,6 +36,7 @@ git clone https://github.com/n1ckfg/ComfyUI-DepthAnythingV2
 git clone https://github.com/n1ckfg/ComfyUI-DepthCrafter-Nodes
 git clone https://github.com/n1ckfg/ComfyUI-Environment-Visualizer
 git clone https://github.com/n1ckfg/ComfyUI-FLATTEN
+git clone https://github.com/n1ckfg/ComfyUI-Flux2Klein-Enhancer
 git clone https://github.com/n1ckfg/ComfyUI-GGUF
 git clone https://github.com/n1ckfg/ComfyUI-Impact-Pack
 git clone https://github.com/n1ckfg/comfyui-inpaint-nodes
