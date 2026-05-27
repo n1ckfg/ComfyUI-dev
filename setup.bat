@@ -13,6 +13,7 @@ pip install --user --upgrade torch torchvision torchaudio --index-url https://do
 rem SageAttention options
 rem pip install --user --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 rem pip install triton-windows sageattention
+rem pip install --upgrade xformers
 
 cd custom_nodes
 git clone https://github.com/n1ckfg/ComfyUI-Manager
