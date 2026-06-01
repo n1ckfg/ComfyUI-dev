@@ -10,11 +10,9 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 cd "$DIR"
 
-cd ComfyUI
-python -m venv venv
-source venv/bin/activate
+#python -m venv venv
+#source venv/bin/activate
 
-cd ..
 pip install -r requirements.txt
 
 git clone https://github.com/n1ckfg/ComfyUI
